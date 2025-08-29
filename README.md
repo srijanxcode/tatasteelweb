@@ -39,5 +39,5 @@ It provides features such as attendance tracking, punch-in/out logging, meal boo
 
 Clone the repository:  
 ```bash
-git clone https://github.com/your-username/tata-steel-vendor-management.git
-cd tata-steel-vendor-management
+git clone https://github.com/srijanxcode/tatasteelweb.git
+cd tatasteelweb
